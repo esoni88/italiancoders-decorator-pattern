@@ -1,4 +1,4 @@
-public class CheeseBurger extends Consumazione {
+public class CheeseBurger extends Consumation {
     public CheeseBurger() {
         productName = "CheeseBurger";
     }

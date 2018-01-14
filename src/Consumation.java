@@ -1,4 +1,5 @@
-public abstract class Consumazione {
+public abstract class Consumation {
+
     String productName = "";
 
     public String getProductName() {
